@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="app_name2">счет</string>
+    <string name="button_name">жми</string>
+</resources>
